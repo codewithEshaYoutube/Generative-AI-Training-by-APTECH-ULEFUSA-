@@ -54,4 +54,3 @@ This program is your gateway to mastering Generative AI, which can revolutionize
 
 ---
 
-For more information, please contact [your program coordinator's contact information].
