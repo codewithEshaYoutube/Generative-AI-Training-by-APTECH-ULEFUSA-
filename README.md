@@ -5,7 +5,7 @@
 Generative AI is transforming industries by automating complex tasks, optimizing workflows, and driving innovation. The ULEFUSA and APTECH, in partnership with Pak Angels, are launching a **5-week Generative AI Training Program** designed to equip students and professionals with hands-on skills in applying AI to solve real-world problems. This program will run from **January 26, 2025**, to **March 2025**, with the goal of empowering participants to use Generative AI in various fields, especially engineering.
 
 ## Key Details
-
+ 
 - **Duration:** 5 Weeks
 - **Start Date:** January 26, 2025
 - **End Date:** Before Ramazan (March 2025)
